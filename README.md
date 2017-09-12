@@ -19,6 +19,11 @@ Why Slingshot?
 [![React Slingshot Production Build](https://img.youtube.com/vi/qlfDLsX-J0U/0.jpg)](https://www.youtube.com/watch?v=qlfDLsX-J0U)
 
 ## Get Started
+**Initial Commands:**
+npm install --global --production windows-build-tools
+npm install --msvs_version=2015
+npm install --global node-gyp
+
 1. **Initial Machine Setup**. First time running the starter kit? Then complete the [Initial Machine Setup](https://github.com/coryhouse/react-slingshot#initial-machine-setup).
 2. **Clone the project**. `git clone https://github.com/coryhouse/react-slingshot.git`.
 3. **Run the setup script**. `npm run setup`
