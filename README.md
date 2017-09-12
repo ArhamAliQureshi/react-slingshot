@@ -20,9 +20,9 @@ Why Slingshot?
 
 ## Get Started
 **Initial Commands:**
-npm install --global --production windows-build-tools
-npm install --msvs_version=2015
-npm install --global node-gyp
+npm install --global --production windows-build-tools .
+npm install --msvs_version=2015 .
+npm install --global node-gyp .
 
 1. **Initial Machine Setup**. First time running the starter kit? Then complete the [Initial Machine Setup](https://github.com/coryhouse/react-slingshot#initial-machine-setup).
 2. **Clone the project**. `git clone https://github.com/coryhouse/react-slingshot.git`.
