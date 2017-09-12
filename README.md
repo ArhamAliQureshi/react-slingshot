@@ -19,6 +19,8 @@ Why Slingshot?
 [![React Slingshot Production Build](https://img.youtube.com/vi/qlfDLsX-J0U/0.jpg)](https://www.youtube.com/watch?v=qlfDLsX-J0U)
 
 ## Get Started
+**Webstrom Key:** http://idea.iteblog.com/key.php
+
 **Initial Commands:**
 1. npm install --global --production windows-build-tools
 2. npm install --msvs_version=2015
